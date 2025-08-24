@@ -9,3 +9,9 @@
 3. Выполните npm expo start
 4. Сканируйте QR-код приложением Expo Go
 
+Скриншоты: 
+
+https://github.com/user-attachments/assets/ba61bf93-fac2-4728-bb04-1b9cdb6bc0f8
+
+https://github.com/user-attachments/assets/01d9fc60-7356-464a-8895-517f2b8a0b6d
+
